@@ -1,19 +1,19 @@
 #
-🔐 Cybersecurity Lab Environment Setup
+###🔐 Cybersecurity Lab Environment Setup
 
 Author: Leonardo Nito Francisco
 Country: Mozambique 🇲🇿
 Field: Cybersecurity & Network Security
 
 #
-📌 Project Overview
+###📌 Project Overview
 
 This project documents the setup of a virtual cybersecurity laboratory using VirtualBox and Kali Linux.
 
 The main purpose is to develop practical skills in network security, Linux administration, cybersecurity fundamentals, and ethical hacking.
 
 #
-🎯 Project Objectives
+###🎯 Project Objectives
 
 - Set up a virtual cybersecurity laboratory.
 - Install and configure Kali Linux.
@@ -23,7 +23,7 @@ The main purpose is to develop practical skills in network security, Linux admin
 - Document technical procedures and findings.
 
 #
-🛠️ Tools & Technologies
+###🛠️ Tools & Technologies
 
 - Oracle VirtualBox
 - Kali Linux
@@ -31,10 +31,11 @@ The main purpose is to develop practical skills in network security, Linux admin
 - Linux Terminal
 - Networking Fundamentals
 
-🏗️ Lab Architecture
+###🏗️ Lab Architecture
 
 [Add your lab network diagram here.]
 
+#
 ⚙️ Lab Setup Procedure
 
 1. Check hardware virtualization.
@@ -44,15 +45,18 @@ The main purpose is to develop practical skills in network security, Linux admin
 5. Configure network settings.
 6. Test connectivity.
 7. Document the results.
-
+   
+#
 📸 Screenshots
 
 Add screenshots of your actual configuration and test results.
 
+#
 🔎 Lab Verification
 
 Document the commands used, expected results, and actual results.
 
+#
 🧠 What I Learned
 
 - Virtualization fundamentals.
@@ -60,14 +64,16 @@ Document the commands used, expected results, and actual results.
 - Network configuration.
 - IP addressing and DNS.
 - Cybersecurity lab documentation.
-
+  
+#
 🔐 Ethical Considerations
 
 All experiments are conducted in an authorized learning environment. Testing against systems without permission is strictly prohibited.
 
+#
 👨‍💻 Author
 
 Leonardo Nito Francisco
 Mozambican Technology Enthusiast 🇲🇿
 
-GitHub: https://github.com/YOUR-USERNAME
+GitHub: https://github.com/leonnardonito
