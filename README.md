@@ -30,29 +30,7 @@ The main purpose is to develop practical skills in network security, Linux admin
 - Windows 11
 - Linux Terminal
 - Networking Fundamentals
-
-#
-🏗️ Lab Architecture
-
-NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP
-│
-├── README.md
-│
-├── screenshots/
-│   ├── 01-7zip-installation.png
-│   ├── 02-virtualbox-installation.png
-│   ├── 03-kali-linux.png
-│   ├── 04-nat-network.png
-│   ├── 05-ip-configuration.png
-│   ├── 06-connectivity-test.png
-│   └── 07-snapshot.png
-│
-├── documentation/
-│   └── lab-configuration.md
-│
-└── License  
-
-
+  
 #
 ⚙️ Lab Setup Procedure
 
