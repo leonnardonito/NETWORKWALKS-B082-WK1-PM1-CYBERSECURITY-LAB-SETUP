@@ -1,19 +1,19 @@
 #
-###🔐 Cybersecurity Lab Environment Setup
+🔐 Cybersecurity Lab Environment Setup
 
 Author: Leonardo Nito Francisco
 Country: Mozambique 🇲🇿
 Field: Cybersecurity & Network Security
 
 #
-###📌 Project Overview
+📌 Project Overview
 
 This project documents the setup of a virtual cybersecurity laboratory using VirtualBox and Kali Linux.
 
 The main purpose is to develop practical skills in network security, Linux administration, cybersecurity fundamentals, and ethical hacking.
 
 #
-###🎯 Project Objectives
+🎯 Project Objectives
 
 - Set up a virtual cybersecurity laboratory.
 - Install and configure Kali Linux.
@@ -23,7 +23,7 @@ The main purpose is to develop practical skills in network security, Linux admin
 - Document technical procedures and findings.
 
 #
-###🛠️ Tools & Technologies
+🛠️ Tools & Technologies
 
 - Oracle VirtualBox
 - Kali Linux
@@ -31,9 +31,27 @@ The main purpose is to develop practical skills in network security, Linux admin
 - Linux Terminal
 - Networking Fundamentals
 
-###🏗️ Lab Architecture
+#
+🏗️ Lab Architecture
 
-[Add your lab network diagram here.]
+NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP
+│
+├── README.md
+│
+├── screenshots/
+│   ├── 01-7zip-installation.png
+│   ├── 02-virtualbox-installation.png
+│   ├── 03-kali-linux.png
+│   ├── 04-nat-network.png
+│   ├── 05-ip-configuration.png
+│   ├── 06-connectivity-test.png
+│   └── 07-snapshot.png
+│
+├── documentation/
+│   └── lab-configuration.md
+│
+└── License  
+
 
 #
 ⚙️ Lab Setup Procedure
@@ -55,6 +73,10 @@ Add screenshots of your actual configuration and test results.
 🔎 Lab Verification
 
 Document the commands used, expected results, and actual results.
+
+ping -c 4 8.8.8.8
+
+nslookup google.com
 
 #
 🧠 What I Learned
